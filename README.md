@@ -4,8 +4,8 @@
 **About Me**
 
 *  💻 I'm interested in: 
-    * Web Development (HTML, CSS and JavaScript).
-    * Machine Learning (Python and using Jupiter for bioinformatics).
+    * Web Development (HTML, CSS and JavaScript)
+    * Machine Learning (Python) using Jupiter for bioinformatics
     * Data Science (Python)
 *  📝 I'm currently learning: 
     * Data Science with Python 
