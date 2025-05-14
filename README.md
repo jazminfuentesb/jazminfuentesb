@@ -13,7 +13,7 @@
     * Front-end development projects
     * Bioinformatical or chemical computational projects 
 * ✨ How to reach me: 
-    * LinkedIn: https://www.linkedin.com/in/jazm%C3%ADn-fuentes/
+    * LinkedIn: https://www.linkedin.com/in/jazmin-fuentes/
 * ⚡ Fun fact: I'm a chemistry student  who loves programming! I enjoy merging these two worlds to create cool stuff.
 
 **Let's Connect!**
